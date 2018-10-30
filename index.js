@@ -14,6 +14,7 @@ const parseString = require("xml2js").parseString;
 const config = require("./config/config.json");
 const os = require("os");
 const logger = require("./loggerWinston");
+const upath = require("upath");
 const dataArray = {};
 const procArray = {};
 const xmlFile = __dirname + config.xml_path;
@@ -70,7 +71,7 @@ function processCCTV(cam_id, url, response) {
     if (os.platform() == "win32")
         ffmpegPath = __dirname + "\\ffmpeg";
     else
-        ffmpegPath = __dirname + "\\linuxffmpeg\\ffmpeg";
+        ffmpegPath =upath.toUnix( __dirname + "\\linuxffmpeg\\ffmpeg");
     const proc = spawn(ffmpegPath, ["-rtsp_transport", "tcp", "-y", "-i", url, "-ss", "00:00:01.500", "-vf", "fps=1/2", "-f", "image2pipe", "-"]);
     procArray[cam_id] = proc.pid;
     proc.stdout.on("data", (data) => {
