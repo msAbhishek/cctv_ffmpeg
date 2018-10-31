@@ -6,10 +6,18 @@
  * @desc [description]
 */
 const winston = require("winston");
+require("winston-daily-rotate-file");
+let logDir = "./log/";
+const dailyRotateFileTransport = new winston.transports.DailyRotateFile({
+    filename: `${logDir}/%DATE%-cctvLog.log`,
+    tailable: true,
+    datePattern: "YYYY-MM-DDTHH",
+    keep: 5,
+});
 const logger = winston.createLogger({
     transports: [
         new winston.transports.Console(),
-        new winston.transports.File({ filename: "./log/ffmpegLog.log" })
+        dailyRotateFileTransport
     ]
 });
 module.exports = logger;
