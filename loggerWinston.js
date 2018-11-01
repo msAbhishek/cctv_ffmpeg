@@ -11,8 +11,8 @@ let logDir = "./log/";
 const dailyRotateFileTransport = new winston.transports.DailyRotateFile({
     filename: `${logDir}/%DATE%-cctvLog.log`,
     tailable: true,
-    datePattern: "YYYY-MM-DDTHH",
-    keep: 5,
+    datePattern: "YYYY-MM-DD",
+    maxFiles:5
 });
 const logger = winston.createLogger({
     transports: [

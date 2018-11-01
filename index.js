@@ -23,7 +23,7 @@ let ffmpegPath;
 /**
  * self-invoking function to generate an array of camera url from the xml doc
  */
-const initialise = (() => {
+const initialise = (() => { //eslint-disable-line
     let xml = fs.readFileSync(xmlFile, "utf8");
     parseString(xml, (err, xml) => {
         let path, ip, portNumber, protocol, userName, passWord;

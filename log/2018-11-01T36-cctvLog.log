@@ -1,0 +1,91 @@
+{"level":"info","message":"stderr: frame=    1 fps=0.3 q=6.7 size=      69kB time=00:00:02.00 bitrate= 284.5kbits/s speed=0.644x    \r"}
+{"level":"info","message":"stderr: frame=    1 fps=0.3 q=6.7 size=      69kB time=00:00:02.00 bitrate= 284.5kbits/s speed=0.552x    \r"}
+{"level":"info","message":"stderr: frame=    2 fps=0.5 q=4.7 size=     153kB time=00:00:04.00 bitrate= 312.7kbits/s speed=0.965x    \r"}
+{"level":"info","message":"stderr: frame=    2 fps=0.4 q=4.7 size=     153kB time=00:00:04.00 bitrate= 312.7kbits/s speed=0.857x    \r"}
+{"level":"info","message":"stderr: frame=    2 fps=0.4 q=4.7 size=     153kB time=00:00:04.00 bitrate= 312.7kbits/s speed=0.772x    \r"}
+{"level":"info","message":"stderr: frame=    2 fps=0.4 q=4.7 size=     153kB time=00:00:04.00 bitrate= 312.7kbits/s speed=0.701x    \r"}
+{"level":"info","message":"stderr: frame=    3 fps=0.5 q=2.4 size=     298kB time=00:00:06.00 bitrate= 407.5kbits/s speed=0.964x    \r"}
+{"level":"info","message":"stderr: frame=    3 fps=0.4 q=2.4 size=     298kB time=00:00:06.00 bitrate= 407.5kbits/s speed=0.889x    \r"}
+{"level":"info","message":"stderr: frame=    3 fps=0.4 q=2.4 size=     298kB time=00:00:06.00 bitrate= 407.5kbits/s speed=0.828x    \r"}
+{"level":"info","message":"stderr: frame=    3 fps=0.4 q=2.4 size=     298kB time=00:00:06.00 bitrate= 407.5kbits/s speed=0.771x    \r"}
+{"level":"info","message":"stderr: frame=    4 fps=0.5 q=1.6 size=     444kB time=00:00:08.00 bitrate= 454.9kbits/s speed=0.963x    \r"}
+{"level":"info","message":"stderr: frame=    4 fps=0.5 q=1.6 size=     444kB time=00:00:08.00 bitrate= 454.9kbits/s speed=0.907x    \r"}
+{"level":"info","message":"stderr: frame=    4 fps=0.4 q=1.6 size=     444kB time=00:00:08.00 bitrate= 454.9kbits/s speed=0.856x    \r"}
+{"level":"info","message":"stderr: frame=    4 fps=0.4 q=1.6 size=     444kB time=00:00:08.00 bitrate= 454.9kbits/s speed=0.811x    \r"}
+{"level":"info","message":"stderr: frame=    5 fps=0.5 q=1.9 size=     590kB time=00:00:10.00 bitrate= 483.4kbits/s speed=0.963x    \r"}
+{"level":"info","message":"stderr: frame=    5 fps=0.5 q=1.9 size=     590kB time=00:00:10.00 bitrate= 483.4kbits/s speed=0.917x    \r"}
+{"level":"info","message":"stderr: frame=    5 fps=0.4 q=1.9 size=     590kB time=00:00:10.00 bitrate= 483.4kbits/s speed=0.875x    \r"}
+{"level":"info","message":"stderr: frame=    5 fps=0.4 q=1.9 size=     590kB time=00:00:10.00 bitrate= 483.4kbits/s speed=0.837x    \r"}
+{"level":"info","message":"stderr: frame=    6 fps=0.5 q=3.7 size=     683kB time=00:00:12.00 bitrate= 466.5kbits/s speed=0.963x    \r"}
+{"level":"info","message":"stderr: frame=    6 fps=0.5 q=3.7 size=     683kB time=00:00:12.00 bitrate= 466.5kbits/s speed=0.924x    \r"}
+{"level":"info","message":"stderr: frame=    6 fps=0.4 q=3.7 size=     683kB time=00:00:12.00 bitrate= 466.5kbits/s speed=0.889x    \r"}
+{"level":"info","message":"stderr: frame=    7 fps=0.5 q=6.1 size=     759kB time=00:00:14.00 bitrate= 443.9kbits/s speed=0.999x    \r"}
+{"level":"info","message":"stderr: frame=    7 fps=0.5 q=6.1 size=     759kB time=00:00:14.00 bitrate= 443.9kbits/s speed=0.963x    \r"}
+{"level":"info","message":"stderr: frame=    7 fps=0.5 q=6.1 size=     759kB time=00:00:14.00 bitrate= 443.9kbits/s speed=0.929x    \r"}
+{"level":"info","message":"stderr: frame=    7 fps=0.4 q=6.1 size=     759kB time=00:00:14.00 bitrate= 443.9kbits/s speed=0.898x    \r"}
+{"level":"info","message":"stderr: frame=    8 fps=0.5 q=8.8 size=     820kB time=00:00:16.00 bitrate= 420.0kbits/s speed=0.994x    \r"}
+{"level":"info","message":"stderr: frame=    8 fps=0.5 q=8.8 size=     820kB time=00:00:16.00 bitrate= 420.0kbits/s speed=0.963x    \r"}
+{"level":"info","message":"stderr: frame=    8 fps=0.5 q=8.8 size=     820kB time=00:00:16.00 bitrate= 420.0kbits/s speed=0.933x    \r"}
+{"level":"info","message":"stderr: frame=    8 fps=0.5 q=8.8 size=     820kB time=00:00:16.00 bitrate= 420.0kbits/s speed=0.906x    \r"}
+{"level":"info","message":"stderr: frame=    9 fps=0.5 q=11.6 size=     875kB time=00:00:18.00 bitrate= 398.2kbits/s speed=0.99x    \r"}
+{"level":"info","message":"stderr: frame=    9 fps=0.5 q=11.6 size=     875kB time=00:00:18.00 bitrate= 398.2kbits/s speed=0.962x    \r"}
+{"level":"info","message":"stderr: frame=    9 fps=0.5 q=11.6 size=     875kB time=00:00:18.00 bitrate= 398.2kbits/s speed=0.936x    \r"}
+{"level":"info","message":"stderr: frame=    9 fps=0.5 q=11.6 size=     875kB time=00:00:18.00 bitrate= 398.2kbits/s speed=0.912x    \r"}
+{"level":"info","message":"stderr: frame=   10 fps=0.5 q=14.6 size=     926kB time=00:00:20.00 bitrate= 379.1kbits/s speed=0.987x    \r"}
+{"level":"info","message":"stderr: frame=   10 fps=0.5 q=14.6 size=     926kB time=00:00:20.00 bitrate= 379.1kbits/s speed=0.963x    \r"}
+{"level":"info","message":"stderr: frame=   10 fps=0.5 q=14.6 size=     926kB time=00:00:20.00 bitrate= 379.1kbits/s speed=0.939x    \r"}
+{"level":"info","message":"stderr: frame=   10 fps=0.5 q=14.6 size=     926kB time=00:00:20.00 bitrate= 379.1kbits/s speed=0.917x    \r"}
+{"level":"info","message":"stderr: frame=   11 fps=0.5 q=17.5 size=     973kB time=00:00:22.00 bitrate= 362.3kbits/s speed=0.985x    \r"}
+{"level":"info","message":"stderr: frame=   11 fps=0.5 q=17.5 size=     973kB time=00:00:22.00 bitrate= 362.3kbits/s speed=0.962x    \r"}
+{"level":"info","message":"stderr: frame=   11 fps=0.5 q=17.5 size=     973kB time=00:00:22.00 bitrate= 362.3kbits/s speed=0.941x    \r"}
+{"level":"info","message":"stderr: frame=   11 fps=0.5 q=17.5 size=     973kB time=00:00:22.00 bitrate= 362.3kbits/s speed=0.921x    \r"}
+{"level":"info","message":"stderr: frame=   12 fps=0.5 q=20.5 size=    1018kB time=00:00:24.00 bitrate= 347.6kbits/s speed=0.983x    \r"}
+{"level":"info","message":"stderr: frame=   12 fps=0.5 q=20.5 size=    1018kB time=00:00:24.00 bitrate= 347.6kbits/s speed=0.962x    \r"}
+{"level":"info","message":"stderr: frame=   12 fps=0.5 q=20.5 size=    1018kB time=00:00:24.00 bitrate= 347.6kbits/s speed=0.942x    \r"}
+{"level":"info","message":"stderr: frame=   13 fps=0.5 q=23.5 size=    1062kB time=00:00:26.00 bitrate= 334.6kbits/s speed=   1x    \r"}
+{"level":"info","message":"stderr: frame=   13 fps=0.5 q=23.5 size=    1062kB time=00:00:26.00 bitrate= 334.6kbits/s speed=0.982x    \r"}
+{"level":"info","message":"stderr: frame=   13 fps=0.5 q=23.5 size=    1062kB time=00:00:26.00 bitrate= 334.6kbits/s speed=0.962x    \r"}
+{"level":"info","message":"stderr: frame=   13 fps=0.5 q=23.5 size=    1062kB time=00:00:26.00 bitrate= 334.6kbits/s speed=0.944x    \r"}
+{"level":"info","message":"stderr: frame=   14 fps=0.5 q=24.8 size=    1105kB time=00:00:28.00 bitrate= 323.2kbits/s speed=0.998x    \r"}
+{"level":"info","message":"child process exited with code null"}
+{"level":"info","message":"stderr: ffmpeg version N-92202-gf72b9904fe Copyright (c) 2000-2018 the FFmpeg developers\r\n  built with gcc 8.2.1 (GCC) 20181017\r\n"}
+{"level":"info","message":"stderr:   configuration: --enable-gpl --enable-version3 --enable-sdl2 --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libaom --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth\r\n  libavutil      56. 19.101 / 56. 19.101\r\n  libavcodec     58. 33.101 / 58. 33.101\r\n  libavformat    58. 19.100 / 58. 19.100\r\n  libavdevice    58.  4.105 / 58.  4.105\r\n  libavfilter     7. 33.101 /  7. 33.101\r\n  libswscale      5.  2.100 /  5.  2.100\r\n  libswresample   3.  2.100 /  3.  2.100\r\n  libpostproc    55.  2.100 / 55.  2.100\r\n"}
+{"level":"info","message":"stderr: [h264 @ 0000009c60e4fd00] Invalid NAL unit 0, skipping.\r\n"}
+{"level":"info","message":"stderr:     Last message "}
+{"level":"info","message":"stderr: repeated 1 times\r\n[h264 @ 0000009c60e4fd00] non-existing PPS 0 referenced\r\n    Last message repeated 1 times\r\n[h264 @ 0000009c60e4fd00] decode_slice_header error\r\n[h264 @ 0000009c60e4fd00] no frame!\r\n"}
+{"level":"info","message":"stderr: Input #0, rtsp, from 'rtsp://admin:123456@192.168.2.5:554/media/video1':\r\n  Metadata:\r\n    title           : VCP IPC Realtime stream\r\n  Duration: N/A, start: 0.000000, bitrate: N/A\r\n"}
+{"level":"info","message":"stderr:     Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x1080, 25 fps, 25 tbr, 90k tbn, 50 tbc\r\n    Stream #0:1: Data: none\r\n[h264 @ 0000009c634feb40] Invalid NAL unit 0, skipping.\r\n"}
+{"level":"info","message":"stderr: Stream mapping:\r\n  Stream #0:0 -> #0:0 (h264 (native) -> mjpeg (native))\r\nPress [q] to stop, [?] for help\r\n"}
+{"level":"info","message":"stderr: [h264 @ 0000009c634feb40] non-existing PPS 0 referenced\r\n[h264 @ 0000009c634feb40] decode_slice_header error\r\n[h264 @ 0000009c634feb40] no frame!\r\n"}
+{"level":"info","message":"stderr: Error while decoding stream #0:0: Invalid data found when processing input"}
+{"level":"info","message":"stderr: \r\n"}
+{"level":"info","message":"stderr: [swscaler @ 0000009c651fbf40] deprecated pixel format used, make sure you did set range correctly\r\n"}
+{"level":"info","message":"stderr: Output #0, image2pipe, to 'pipe:':\r\n  Metadata:\r\n    title           : VCP IPC Realtime stream"}
+{"level":"info","message":"stderr: \r\n    encoder         : Lavf58.19.100\r\n    Stream #0:0: Video: mjpeg, yuvj420p(pc), 1920x1080, q=2-31, 200 kb/s, 0.50 fps, 0.50 tbn, 0.50 tbc\r\n    Metadata:\r\n      encoder         : Lavc58.33.101 mjpeg\r\n    Side data:\r\n      cpb: bitrate max/min/avg: 0/0/200000 buffer size: 0 vbv_delay: -1\r\n"}
+{"level":"info","message":"stderr: frame=    0 fps=0.0 q=0.0 size=       0kB time=00:00:00.00 bitrate=N/A speed=   0x    \r"}
+{"level":"info","message":"stderr: frame=    0 fps=0.0 q=0.0 size=       0kB time=00:00:00.00 bitrate=N/A speed=   0x    \r"}
+{"level":"info","message":"stderr: frame=    0 fps=0.0 q=0.0 size=       0kB time=00:00:00.00 bitrate=N/A speed=   0x    \r"}
+{"level":"info","message":"stderr: frame=    1 fps=0.5 q=6.7 size=      70kB time=00:00:02.00 bitrate= 285.2kbits/s speed=0.968x    \r"}
+{"level":"info","message":"stderr: frame=    1 fps=0.4 q=6.7 size=      70kB time=00:00:02.00 bitrate= 285.2kbits/s speed=0.772x    \r"}
+{"level":"info","message":"stderr: frame=    1 fps=0.3 q=6.7 size=      70kB time=00:00:02.00 bitrate= 285.2kbits/s speed=0.644x    \r"}
+{"level":"info","message":"stderr: frame=    1 fps=0.3 q=6.7 size=      70kB time=00:00:02.00 bitrate= 285.2kbits/s speed=0.551x    \r"}
+{"level":"info","message":"stderr: frame=    2 fps=0.5 q=4.7 size=     153kB time=00:00:04.00 bitrate= 313.5kbits/s speed=0.964x    \r"}
+{"level":"info","message":"stderr: frame=    2 fps=0.4 q=4.7 size=     153kB time=00:00:04.00 bitrate= 313.5kbits/s speed=0.858x    \r"}
+{"level":"info","message":"stderr: frame=    2 fps=0.4 q=4.7 size=     153kB time=00:00:04.00 bitrate= 313.5kbits/s speed=0.771x    \r"}
+{"level":"info","message":"stderr: frame=    2 fps=0.4 q=4.7 size=     153kB time=00:00:04.00 bitrate= 313.5kbits/s speed=0.701x    \r"}
+{"level":"info","message":"stderr: frame=    3 fps=0.5 q=2.4 size=     299kB time=00:00:06.00 bitrate= 408.7kbits/s speed=0.963x    \r"}
+{"level":"info","message":"stderr: frame=    3 fps=0.4 q=2.4 size=     299kB time=00:00:06.00 bitrate= 408.7kbits/s speed=0.89x    \r"}
+{"level":"info","message":"stderr: frame=    3 fps=0.4 q=2.4 size=     299kB time=00:00:06.00 bitrate= 408.7kbits/s speed=0.826x    \r"}
+{"level":"info","message":"stderr: frame=    3 fps=0.4 q=2.4 size=     299kB time=00:00:06.00 bitrate= 408.7kbits/s speed=0.771x    \r"}
+{"level":"info","message":"stderr: frame=    4 fps=0.5 q=1.6 size=     445kB time=00:00:08.00 bitrate= 455.9kbits/s speed=0.963x    \r"}
+{"level":"info","message":"stderr: frame=    4 fps=0.5 q=1.6 size=     445kB time=00:00:08.00 bitrate= 455.9kbits/s speed=0.907x    \r"}
+{"level":"info","message":"stderr: frame=    4 fps=0.4 q=1.6 size=     445kB time=00:00:08.00 bitrate= 455.9kbits/s speed=0.856x    \r"}
+{"level":"info","message":"stderr: frame=    4 fps=0.4 q=1.6 size=     445kB time=00:00:08.00 bitrate= 455.9kbits/s speed=0.811x    \r"}
+{"level":"info","message":"stderr: frame=    5 fps=0.5 q=1.9 size=     591kB time=00:00:10.00 bitrate= 484.0kbits/s speed=0.963x    \r"}
+{"level":"info","message":"stderr: frame=    5 fps=0.5 q=1.9 size=     591kB time=00:00:10.00 bitrate= 484.0kbits/s speed=0.917x    \r"}
+{"level":"info","message":"stderr: frame=    5 fps=0.4 q=1.9 size=     591kB time=00:00:10.00 bitrate= 484.0kbits/s speed=0.875x    \r"}
+{"level":"info","message":"stderr: frame=    6 fps=0.5 q=3.7 size=     684kB time=00:00:12.00 bitrate= 467.0kbits/s speed=   1x    \r"}
+{"level":"info","message":"stderr: frame=    6 fps=0.5 q=3.7 size=     684kB time=00:00:12.00 bitrate= 467.0kbits/s speed=0.962x    \r"}
+{"level":"info","message":"stderr: frame=    6 fps=0.5 q=3.7 size=     684kB time=00:00:12.00 bitrate= 467.0kbits/s speed=0.924x    \r"}
+{"level":"info","message":"stderr: frame=    6 fps=0.4 q=3.7 size=     684kB time=00:00:12.00 bitrate= 467.0kbits/s speed=0.888x    \r"}
+{"level":"info","message":"stderr: frame=    7 fps=0.5 q=6.1 size=     760kB time=00:00:14.00 bitrate= 444.4kbits/s speed=0.999x    \r"}
